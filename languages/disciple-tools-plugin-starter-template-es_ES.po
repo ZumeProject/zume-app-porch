@@ -1,8 +1,8 @@
-# Copyright (C) 2022 
-# This file is distributed under the same license as the Disciple.Tools - Plugin Starter Template plugin.
+# Copyright (C) 2022
+# This file is distributed under the same license as the Disciple.Tools - Zume App Porch plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Disciple.Tools - Plugin Starter Template 0.1\n"
+"Project-Id-Version: Disciple.Tools - Zume App Porch 0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/disciple-tools-"
 "plugin-starter-template\n"
 "POT-Creation-Date: 2022-10-27T10:12:56+00:00\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.14.1\n"
-"X-Domain: disciple-tools-plugin-starter-template\n"
+"X-Domain: zume-app-porch\n"
 
 #: charts/one-page-chart-template.php:68
 msgid "Sample API Call"
@@ -183,7 +183,7 @@ msgid "All"
 msgstr ""
 
 #: tile/custom-tile.php:32
-msgid "Plugin Starter Template"
+msgid "Zume App Porch"
 msgstr ""
 
 #: tile/custom-tile.php:33
