@@ -1,0 +1,75 @@
+#wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+#content {
+    overflow-x: hidden;
+}
+.prayer-list {
+    padding: 1.5em .5em;
+    border:1px solid lightgrey;
+    background-color: white;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+.checked-off {
+    margin-left: 40px;
+}
+#title_link {
+    color: white;
+}
+.item-name {
+    padding-left:1em;
+}
+.basic_lists {
+    cursor: pointer;
+    color: #3f729b;
+}
+#offCanvasLeft ul {
+    list-style-type: none;
+}
+
+#spinner-background {
+    position:absolute;
+    right:5px;
+    top:0;
+    z-index:100;
+    margin: 5px auto;
+}
+.link {
+    cursor: pointer;
+    color: #3f729b;
+}
+.list-item {
+    text-transform: capitalize;
+    cursor: pointer;
+    color: #3f729b;
+}
+.tags-item {
+    text-transform: capitalize;
+    cursor: pointer;
+    color: #3f729b;
+}
+.item-meta {
+    float:right;
+}
+#menu-icon-wrapper {
+    position:absolute;
+    top: 10px;
+    right: 10px;
+    width: 40px;
+}
+#menu-icon {
+    color: black;
+    font-size: 35px;
+}
+#menu-login-wrapper {
+    position:absolute;
+    top: 10px;
+    right: 60px;
+    width: 50px;
+}
+.off-canvas-wrapper .off-canvas {
+    background-color: white;
+    width: 33%;
+}
